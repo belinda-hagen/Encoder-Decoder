@@ -1,0 +1,15 @@
+E:\004 - Projects\Cryptography\WindowsApp1\obj\Debug\DoomWareCryptography.vbproj.AssemblyReference.cache
+E:\004 - Projects\Cryptography\WindowsApp1\obj\Debug\DoomWareCryptography.vbproj.SuggestedBindingRedirects.cache
+D:\03-Projects\Cryptography\WindowsApp1\obj\Debug\DoomWareCryptography.vbproj.AssemblyReference.cache
+C:\Users\bernd\source\repos\Cryptography\WindowsApp1\obj\Debug\DoomWareCryptography.vbproj.AssemblyReference.cache
+C:\Users\bernd\source\repos\Cryptography\WindowsApp1\obj\Debug\DoomWareCryptography.vbproj.GenerateResource.cache
+C:\Users\bernd\source\repos\Cryptography\WindowsApp1\obj\Debug\DoomWareCryptography.vbproj.CoreCompileInputs.cache
+C:\Users\bernd\source\repos\Cryptography\WindowsApp1\obj\Debug\EncryptorX.Form1.resources
+C:\Users\bernd\source\repos\Cryptography\WindowsApp1\obj\Debug\EncryptorX.Resources.resources
+C:\Users\bernd\source\repos\Cryptography\WindowsApp1\bin\Debug\EncryptorX.exe.config
+C:\Users\bernd\source\repos\Cryptography\WindowsApp1\bin\Debug\EncryptorX.exe
+C:\Users\bernd\source\repos\Cryptography\WindowsApp1\bin\Debug\EncryptorX.pdb
+C:\Users\bernd\source\repos\Cryptography\WindowsApp1\bin\Debug\EncryptorX.xml
+C:\Users\bernd\source\repos\Cryptography\WindowsApp1\obj\Debug\EncryptorX.exe
+C:\Users\bernd\source\repos\Cryptography\WindowsApp1\obj\Debug\EncryptorX.xml
+C:\Users\bernd\source\repos\Cryptography\WindowsApp1\obj\Debug\EncryptorX.pdb
